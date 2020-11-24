@@ -20,12 +20,12 @@
 		<repository>
 			<id>central</id>
 			<name>MacBook-Pro-de-Daniel.local-releases</name>
-			<url>http://localhost:8082/artifactory/maven-local-demo</url>
+			<url>http://localhost:8081/artifactory/maven-local-demo</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>MacBook-Pro-de-Daniel.local-snapshots</name>
-			<url>http://localhost:8082/artifactory/maven-local-demo</url>
+			<url>http://localhost:8081/artifactory/maven-local-demo</url>
 		</snapshotRepository>
 	</distributionManagement>
 
