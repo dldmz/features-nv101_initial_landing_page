@@ -11,7 +11,11 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
+<<<<<<< HEAD
 	<version>1.0.1-SNAPSHOT</version>
+=======
+	<version>1.0.3-SNAPSHOT</version>
+>>>>>>> release/releasefinal
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Devops project Demo</description>
