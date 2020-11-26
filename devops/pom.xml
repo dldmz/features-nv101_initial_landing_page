@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Devops project Demo</description>
@@ -31,7 +31,7 @@
 		<connection>scm:git:git@github.com:dldmz/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:dldmz/devops.git</developerConnection>
 		<url>https://github.com/dldmz/features-nv101_initial_landing_page.git</url>
-		<tag>tag</tag>
+		<tag>v1.0.3</tag>
 	</scm>
 
 	<properties>
