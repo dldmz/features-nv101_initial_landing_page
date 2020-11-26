@@ -30,7 +30,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:dldmz/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:dldmz/devops.git</developerConnection>
-		<url>scm:git:git@github.com:dldmz/devops.git</url>
+		<url>https://github.com/dldmz/features-nv101_initial_landing_page.git</url>
 		<tag>tag</tag>
 	</scm>
 
