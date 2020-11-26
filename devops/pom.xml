@@ -30,7 +30,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:dldmz/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:dldmz/devops.git</developerConnection>
-		<url>git@github.com:dldmz/devops.git</url>
+		<url>scm:git:git@github.com:dldmz/devops.git</url>
 		<tag>tag</tag>
 	</scm>
 
